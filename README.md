@@ -37,3 +37,4 @@ python setup.py bdist_wheel
 
 1. [Compling ARM stuff without an ARM board / Build PyTorch for the Raspberry Pi](https://nmilosev.svbtle.com/compling-arm-stuff-without-an-arm-board-build-pytorch-for-the-raspberry-pi)
 2. [pytorch-arm-builds](https://github.com/nmilosev/pytorch-arm-builds)
+3. [Python documentation](https://packaging.python.org/tutorials/managing-dependencies/)
